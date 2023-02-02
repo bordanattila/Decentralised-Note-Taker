@@ -3,7 +3,7 @@ import Header from './Header';
 import Footer from './Footer';
 import NoteArea from './NoteArea';
 import Note from './Note';
-// import './App.css';
+import { reactNote } from "../../../declarations/keeper";
 
 
 function App() {
